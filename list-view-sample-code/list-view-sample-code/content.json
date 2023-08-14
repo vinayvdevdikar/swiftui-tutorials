@@ -1,0 +1,23 @@
+[
+    {
+        "section": "Citrus Fruits",
+        "name": ["Lemon", "Orange", "Gooseberry"]
+    },
+    {
+        "section": "Berries",
+        "name": ["Blueberries", "Raspberries", "Strawberries"]
+    },
+    {
+        "section": "Pits",
+        "name": ["Cherries", "Apricots", "Peaches"]
+    },
+    {
+        "section": "Stone Fruits",
+        "name": ["Apricots", "Lychee", "Mangoes"]
+        
+    },
+    {
+        "section": "Tropical Fruits",
+        "name": ["Avocado", "Banana", "Chikoo"]
+    }
+]

@@ -11,4 +11,6 @@ This tutorial provides the detail implementation of a listview component in Swif
 - Plain
 - Grouped
 
+## Reference Image
 
+![SampleImage](sampleImage.png)
