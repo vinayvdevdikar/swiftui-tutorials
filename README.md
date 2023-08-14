@@ -1,4 +1,4 @@
-# # SwiftUI Component Tutorials
+# SwiftUI Component Tutorials
 
  Welcome to the SwiftUI Component Tutorials! In this learning repository, you will find a comprehensive guide to SwiftUI components. Our goal is to provide you with in-depth understanding and knowledge of SwiftUI components, so you can create beautiful and interactive user interfaces for your iOS apps.
 
@@ -16,6 +16,6 @@ We provide interactive learning materials, including SwiftUI component demos, th
 
 | Component Name    | Sample Code |
 | -------- | ------- |
-| Table View  | --    |
+| List View  | --    |
 | Use of Label | --     |
 | Different button style    | -- |
