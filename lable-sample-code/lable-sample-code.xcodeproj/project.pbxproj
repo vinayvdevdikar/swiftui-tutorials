@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		35B9969F2A8BCBA600186B94 /* lable_sample_codeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B9969E2A8BCBA600186B94 /* lable_sample_codeApp.swift */; };
+		35B9969F2A8BCBA600186B94 /* SampleAppMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B9969E2A8BCBA600186B94 /* SampleAppMain.swift */; };
 		35B996A12A8BCBA600186B94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B996A02A8BCBA600186B94 /* ContentView.swift */; };
 		35B996A32A8BCBA700186B94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35B996A22A8BCBA700186B94 /* Assets.xcassets */; };
 		35B996A62A8BCBA700186B94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35B996A52A8BCBA700186B94 /* Preview Assets.xcassets */; };
@@ -15,10 +15,11 @@
 
 /* Begin PBXFileReference section */
 		35B9969B2A8BCBA600186B94 /* lable-sample-code.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "lable-sample-code.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		35B9969E2A8BCBA600186B94 /* lable_sample_codeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lable_sample_codeApp.swift; sourceTree = "<group>"; };
+		35B9969E2A8BCBA600186B94 /* SampleAppMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleAppMain.swift; sourceTree = "<group>"; };
 		35B996A02A8BCBA600186B94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		35B996A22A8BCBA700186B94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35B996A52A8BCBA700186B94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		35B996AC2A8BCCCF00186B94 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +52,8 @@
 		35B9969D2A8BCBA600186B94 /* lable-sample-code */ = {
 			isa = PBXGroup;
 			children = (
-				35B9969E2A8BCBA600186B94 /* lable_sample_codeApp.swift */,
+				35B996AC2A8BCCCF00186B94 /* README.md */,
+				35B9969E2A8BCBA600186B94 /* SampleAppMain.swift */,
 				35B996A02A8BCBA600186B94 /* ContentView.swift */,
 				35B996A22A8BCBA700186B94 /* Assets.xcassets */,
 				35B996A42A8BCBA700186B94 /* Preview Content */,
@@ -138,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35B996A12A8BCBA600186B94 /* ContentView.swift in Sources */,
-				35B9969F2A8BCBA600186B94 /* lable_sample_codeApp.swift in Sources */,
+				35B9969F2A8BCBA600186B94 /* SampleAppMain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
