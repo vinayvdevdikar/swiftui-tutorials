@@ -16,6 +16,6 @@ We provide interactive learning materials, including SwiftUI component demos, th
 
 | Component Name    | Sample Code |
 | -------- | ------- |
-| List View  | [Download](list-view-sample-code/README.md) |
-| Use of Label | [Download](lable-sample-code/README.md) |
+| List View  | [know more](list-view-sample-code/README.md) |
+| Use of Label | [know more](lable-sample-code/README.md) |
 | Different button style    | -- |
