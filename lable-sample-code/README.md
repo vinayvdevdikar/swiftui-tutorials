@@ -56,9 +56,6 @@ Label("Network", systemImage: "globe")
     .labelStyle(AdaptiveLabelStyle())
 
 ```
-
-
-
 - Text 
 To create a label component with the default style in SwiftUI, we can use the `Text` view along with its modifier. For example, we can define a simple label with the text "Hello, World!"
 
@@ -75,4 +72,3 @@ struct ContentView: View {
     }
 }
 ```
-
