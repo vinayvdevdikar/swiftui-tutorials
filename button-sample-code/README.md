@@ -23,4 +23,4 @@ To implement a link component in SwiftUI using the `Link` view modifier, you can
                         Text("google.com ")
                     }.foregroundColor(.red)
 ```
-
+![SampleImage](sampleImg.png)

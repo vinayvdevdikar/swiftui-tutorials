@@ -72,3 +72,4 @@ struct ContentView: View {
     }
 }
 ```
+![SampleImage](sampleImage.png)
