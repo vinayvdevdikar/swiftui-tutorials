@@ -1,26 +1,18 @@
-# SwiftUI Button/Link Component 
-A control that initiates an action. Implementing a button or link component in SwiftUI is relatively simple and straightforward. 
-## Overview
-You create a button by providing an action and a label. The action is either a method or closure property that does something when a user clicks or taps the button. The label is a view that describes the button’s action — for example, by showing text, an icon, or both. To implement a button or link component in SwiftUI.
+# SwiftUI Component Tutorials
+Welcome to the SwiftUI Component Tutorials! In this learning repository, you will find a comprehensive guide to SwiftUI components. Our goal is to provide you with in-depth understanding and knowledge of SwiftUI components, so you can create beautiful and interactive user interfaces for your iOS apps.
 
-The label of a button can be any kind of view, such as a Text view for text-only labels: 
-```
-Button {
-                        updatedString = "Simple Button selected.."
-                    } label: {
-                        Text("Hit me 😀!!")
-                    }.padding()
-```
+In this tutorial series, we will start by introducing you to the SwiftUI component repository, where you can explore various components and their functionalities. We will then showcase demo sample code for different SwiftUI components, allowing you to see them in action.
 
-In SwiftUI, to implement a button or link component, you start by providing an action and a label. The action parameter of a button or link component in SwiftUI is responsible for defining the action to be performed when the user interacts with the button. This action can be defined using a method or closure property. For example, you can define a method that updates a string variable when the button is clicked.
+To help you understand the intricacies of SwiftUI components, we will break down the code samples and explain each component in detail. This will enable you to grasp the underlying concepts and principles that govern SwiftUI components.
 
-# Link 
-To implement a link component in SwiftUI, you can use the `Link` view modifier. The `Link` view modifier allows you to create a hyperlink-like component that, when tapped, navigates the user to another location or external safari browser.
+Whether you're a beginner or an experienced developer, getting started with SwiftUI component tutorials is easy.
 
-To implement a link component in SwiftUI using the `Link` view modifier, you can specify the destination URL and provide a label for the link. For example, to create a link that opens a URL in the default browser when tapped:
-```
-                    Link(destination: URL(string: "https://www.google.co.in/")!) {
-                        Text("google.com ")
-                    }.foregroundColor(.red)
-```
+##Components
+Components range from basic components like buttons, labels, and text fields to more advanced components like lists, grids, and navigation views. Each component is accompanied by its own demo sample code, allowing you to see the component in action and understand its implementation.
 
+We provide interactive learning materials, including SwiftUI component demos, that allow you to experiment and test out different features and functionalities.
+| Component Name |   Sample Code |
+| -------------- | ------------- |
+| List View | [More](/list-view-sample-code/README.md) |
+| Use of Label | [More](/lable-sample-code/README.md) |
+| Types of button |  [More](/button-sample-code/README.md) |
